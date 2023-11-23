@@ -12,3 +12,7 @@ def mul(a,b):
 
 def div_premium(a,b):
     return a/b
+
+#Power
+def power(a):
+    return a*a
