@@ -10,3 +10,6 @@ def sub(a,b):
 # Multiply
 def mul(a,b):
     return a*b
+
+def div(a,b):
+    return a/b
